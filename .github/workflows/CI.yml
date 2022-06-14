@@ -16,6 +16,7 @@ env:
 
 on:
   pull_request:
+  push:
 
 jobs:
   APITEST_DB:
